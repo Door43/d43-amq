@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[amq:home|Door43 (amq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-amq|d43-amq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-amq/archive/master.zip|d43-amq.zip]]
+
+**Recent Changes**
+{{changes>ns = amq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/amq|Ethnologue data]]
+
